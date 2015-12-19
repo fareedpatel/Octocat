@@ -1,1 +1,1 @@
-Explain what a branch is in your own words
+When you a collaborating on a project in github, you're going to have different ideas in progress at any point. Some stuff may be ready, where as others may not. Branching exist to help you with this workflow. When you make a branch you're making an environment where you can test out these new ideas. changes on a branch does not affect a master branch. 
